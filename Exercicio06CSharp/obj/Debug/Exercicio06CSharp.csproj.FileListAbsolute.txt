@@ -1,0 +1,5 @@
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio06CSharp\bin\Debug\Exercicio06CSharp.exe.config
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio06CSharp\bin\Debug\Exercicio06CSharp.exe
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio06CSharp\bin\Debug\Exercicio06CSharp.pdb
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio06CSharp\obj\Debug\Exercicio06CSharp.exe
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio06CSharp\obj\Debug\Exercicio06CSharp.pdb

@@ -1,0 +1,6 @@
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio04CSharp\bin\Debug\Exercicio04CSharp.exe.config
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio04CSharp\bin\Debug\Exercicio04CSharp.exe
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio04CSharp\bin\Debug\Exercicio04CSharp.pdb
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio04CSharp\obj\Debug\Exercicio04CSharp.csprojResolveAssemblyReference.cache
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio04CSharp\obj\Debug\Exercicio04CSharp.exe
+C:\Users\adrco\OneDrive\Área de Trabalho\Exercicio04CSharp\obj\Debug\Exercicio04CSharp.pdb
